@@ -3,5 +3,5 @@ using namespace std;
 
 int main(){
     cout<<"universitas ahmad dahlan";
-    cout<<"INFORMATIKA 2022"
+    cout<<"INFORMATIKA 2022";
 }
